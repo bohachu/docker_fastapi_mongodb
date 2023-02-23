@@ -1,0 +1,6 @@
+fastapi
+pymongo
+pydantic
+passlib
+python-jose[cryptography]
+bson
